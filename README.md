@@ -22,5 +22,5 @@ Our Privacy Policy may be updated periodically, so we recommend that you check t
 Contact Us
 We are always happy to hear from you, whether you have questions or suggestions about our Privacy Policy. Please don’t hesitate to reach out to us at the following contact information:
 
-Email: beingcodist@gmail.com
-Address: Pokhara, Nepal
+- Email: beingcodist@gmail.com
+- Address: Pokhara, Nepal
